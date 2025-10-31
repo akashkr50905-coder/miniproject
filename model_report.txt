@@ -1,0 +1,7 @@
+CTR Predictive Modeling Report
+Selected model: LogisticRegression
+accuracy: 0.98
+precision: 0.9897959183673469
+recall: 0.97
+f1: 0.9797979797979798
+roc_auc: 0.9907
